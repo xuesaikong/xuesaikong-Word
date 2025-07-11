@@ -65,24 +65,22 @@ python Snake/Snake.py
 Je suis une étudiante chinoise en France. J’aime la programmation et j’ai appris à coder en grande partie par moi-même.
 
 ## 🪄 Origine du projet
+Ce projet Snake a été mon tout premier exercice de programmation.
 
-Ce projet est le tout premier que j’ai réalisé depuis que j’ai commencé à apprendre la programmation.
+Au début, le jeu n’était qu’un simple serpent qui mangeait des pommes — rien de très élaboré. Mais je l’ai construit seule, en tâtonnant, en apprenant à chaque étape, en modifiant petit à petit chaque détail. C’est pour cela qu’il a une valeur très particulière pour moi.
 
-C’est un jeu de serpent que j’ai codé à mes débuts, lorsque je venais tout juste de découvrir Python.
+Depuis des années, je n’ai cessé d’apprendre et d’approfondir mes connaissances en programmation.
 
-Même s’il n’est pas très complexe, je l’ai construit petit à petit, en apprenant par moi-même, et en l’améliorant ligne par ligne.
+Récemment, après avoir traversé une période de doute et de remise en question, j’ai ressenti le besoin de revenir à ce projet. Pas pour prouver quelque chose aux autres, mais pour me retrouver, revenir à l’essentiel, me recentrer.
 
-Ces dernières années, j’ai toujours continué à apprendre davantage sur la programmation.
+J’ai repris le code, réorganisé la logique, ajouté des éléments visuels, des détails, des messages. Chaque ligne que je tapais me rappelait mes débuts : la joie quand le programme fonctionnait enfin, la frustration quand un bug restait introuvable.
 
-Récemment, j’ai traversé une période un peu difficile.
-Après avoir pris le temps de me poser, j’ai décidé de rouvrir ce projet.
-J’ai revu toute sa logique, ajouté des images, des détails, des messages, et corrigé ce qui ne fonctionnait pas.
+Cette expérience a été faite de hauts et de bas, mais aussi de progression.
 
-À chaque ligne de code que je tapais, je repensais à mes débuts :
-la joie quand le programme fonctionne enfin, et le découragement quand je ne trouve pas un bug.
+Ce projet n’est pas parfait. Mais il est sincère.  Il représente mes débuts, mes doutes, mes efforts.
+  
+Il est le signe que, même après avoir été un peu perdue, je peux continuer à avancer.  Et surtout, que je veux continuer à apprendre.
 
-Cette expérience a été faite de moments durs, mais aussi de moments heureux.
+Heureusement, il existe la programmation.
 
-Heureusement, la programmation existe.
-
-Heureusement, je peux construire un monde à moi avec quelques lettres.
+Heureusement, je peux, avec quelques lettres, créer un monde à moi.
